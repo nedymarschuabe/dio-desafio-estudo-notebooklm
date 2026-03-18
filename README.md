@@ -1,4 +1,5 @@
 📘 Caderno Temático com IA - SQL Inteligente: Otimizando Consultas com IA
+
 📌 Contexto
 
 Este projeto foi desenvolvido como parte do desafio da DIO, com o objetivo de explorar o uso da Inteligência Artificial como ferramenta de aprendizado ativo.
